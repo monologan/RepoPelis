@@ -1,0 +1,20 @@
+{
+  "name": "repopelis",
+  "version": "1.0.0",
+  "description": "consumo de API con JavaScript",
+  "homepage": "https://github.com/monologan/RepoPelis#readme",
+  "bugs": {
+    "url": "https://github.com/monologan/RepoPelis/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monologan/RepoPelis.git"
+  },
+  "license": "MIT",
+  "author": "@monologan",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
